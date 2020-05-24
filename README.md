@@ -3,9 +3,9 @@ A handful of Data Structures implemented in C++
 
 
 1. [Array](#Array)
-..* [Jagged Array](#Jagged-Array)
-..* [Jagged Array DMA](#Jagged-Array-DMA)
-..* [Jagged Array Vector](#Jagged-Array-Vector)
+  * [Jagged Array](#Jagged-Array)
+  * [Jagged Array DMA](#Jagged-Array-DMA)
+  * [Jagged Array Vector](#Jagged-Array-Vector)
 2. [Stack](#stack)
 ..* [Stack Array](#stack-array)
 ..* [Stack Delimiter](#stack-Delimiter)
