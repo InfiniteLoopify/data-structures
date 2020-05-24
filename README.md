@@ -36,7 +36,7 @@ A handful of Data Structures implemented in C++
 1. [Searching](Searching)
     1. [Binary Search - Simple](Searching/BinarySearch-Simple)
     1. [Binary Search](Searching/BinarySearch)
-1. [Linked List](LinkedList)
+1. [Linked List]('Linked List')
     1. [Linked List - Doubly](Linked List/LinkedList-Doubly)
     1. [Linked List - Singly](Linked List/LinkedList-Singly)
 1. [Others](Others)
